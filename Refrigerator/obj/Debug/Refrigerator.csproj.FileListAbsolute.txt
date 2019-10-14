@@ -1,0 +1,10 @@
+C:\Users\Prince\source\repos\Refrigerator\Refrigerator\bin\Debug\Refrigerator.exe.config
+C:\Users\Prince\source\repos\Refrigerator\Refrigerator\bin\Debug\Refrigerator.exe
+C:\Users\Prince\source\repos\Refrigerator\Refrigerator\bin\Debug\Refrigerator.pdb
+C:\Users\Prince\source\repos\Refrigerator\Refrigerator\obj\Debug\Refrigerator.csprojAssemblyReference.cache
+C:\Users\Prince\source\repos\Refrigerator\Refrigerator\obj\Debug\Refrigerator.RefrigeratorUI.resources
+C:\Users\Prince\source\repos\Refrigerator\Refrigerator\obj\Debug\Refrigerator.Properties.Resources.resources
+C:\Users\Prince\source\repos\Refrigerator\Refrigerator\obj\Debug\Refrigerator.csproj.GenerateResource.cache
+C:\Users\Prince\source\repos\Refrigerator\Refrigerator\obj\Debug\Refrigerator.csproj.CoreCompileInputs.cache
+C:\Users\Prince\source\repos\Refrigerator\Refrigerator\obj\Debug\Refrigerator.exe
+C:\Users\Prince\source\repos\Refrigerator\Refrigerator\obj\Debug\Refrigerator.pdb
